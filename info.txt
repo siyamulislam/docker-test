@@ -1,0 +1,5 @@
+basic cmd
+docker build -t docker-test .
+docker images  
+docker image ls  
+docker run docker-test
